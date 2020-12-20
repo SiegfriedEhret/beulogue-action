@@ -1,0 +1,8 @@
+name: 'beulogue-action'
+description: '`beulogue` [\bøloɡ\]: french for blog... As a GitHub action!'
+runs:
+  using: 'docker'
+  image: 'docker://siegfriedehret/beulogue:latest'
+branding:
+  icon: 'feather'  
+  color: 'gray-dark'
