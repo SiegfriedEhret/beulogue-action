@@ -13,3 +13,5 @@ Add a step to you workflow:
   with:
     args: build
 ```
+
+See [beulogue's workflow](https://github.com/SiegfriedEhret/beulogue/blob/main/.github/workflows/main.yml) for a detailed example.
